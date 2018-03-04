@@ -1,3 +1,4 @@
+// go language use package to manage program, every file need a package name at head
 package main
 
 // fmt package (I/O package) has Println method, we should be add this package
